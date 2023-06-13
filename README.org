@@ -4,7 +4,7 @@ Common Lisp/CFFI bindings for the Vulkan API.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/JolifantoBambla/vk.git   |
-| commit  | {"messa  |
+| commit  | 97805f7  |
 | systems | vk |
 |---------+-------------------------------------------|
 
